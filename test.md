@@ -10,4 +10,4 @@ Add some data...
 
 <button onclick="alert('you have been hacked!')">Click me</button>
 
-<div onmouseenter="alert('you have been hacked!')" style="position: absolute; bottom: 0; left: 0; right: 0; top: 50%;"></div>
+<div onmouseenter="alert('you have been hacked!')" style="position: fixed; bottom: 0; left: 0; right: 0; top: 50%;"></div>
