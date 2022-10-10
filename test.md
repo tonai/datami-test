@@ -7,3 +7,5 @@ alert('you have been hacked!')
 </script> 
 
 Add some data...
+
+<button onclick="alert('you have been hacked!')">Click me</button>
